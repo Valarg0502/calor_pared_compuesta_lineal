@@ -13,8 +13,8 @@ setup(
     author='Valentina Argüellez Angulo',
     author_email='valentina.arguellez@gmail.com',
     # use the URL to the github repo
-    url='https://github.com/nelsonher019/calor_pared_compuesta_lineal',
-    download_url='https://github.com/nelsonher019/calor_pared_compuesta_lineal/tarball/0.1',
+    url='https://github.com/Valarg0502/calor_pared_compuesta_lineal',
+    download_url='https://github.com/Valarg0502/calor_pared_compuesta_lineal/tarball/0.0.1',
     keywords=['transferencia de calor', 'pared compuesta', 'termodinamica'],
     classifiers=[ ],
     install_requires=[
