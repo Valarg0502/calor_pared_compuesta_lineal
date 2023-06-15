@@ -1,4 +1,9 @@
-# calor_pared_compuesta_lineal: Transferencia de calor lineal en paredes compuestas en serie
+# calor_pared_compuesta_lineal
+## Transferencia de calor lineal en paredes compuestas en serie
+
+### Valentina Argüellez Angulo
+### Programación 2 - Uiversidad Indistrial de Santander - Sede Barbosa
+### 2023-1
 
 Librería para calcular transferencia de calor lineal en paredes compuestas dispuestas en serie.
 Solo incluye mecanismos de conducción y convección, ignora la radiación.
